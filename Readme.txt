@@ -7,3 +7,4 @@
 7. copy remote key
 8. initial commit
 9. git push
+10. code . to open in vs code
