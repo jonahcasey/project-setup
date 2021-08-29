@@ -1,9 +1,7 @@
 cd D:\Projects\MY PROJECTS
-
-mkdir New Project
-
-cd New Project
-
+set /p name=What is the name.
+mkdir %name%
+cd %name%
 git init
+python project.py     
 
-python project.py 
